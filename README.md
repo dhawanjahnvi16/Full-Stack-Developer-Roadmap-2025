@@ -1,4 +1,7 @@
-# Full Stack Developer (FrontEnd + BackEnd + DataBases + DevOps + Advanced topics) Roadmap 2025 by Kushal Vijay
+# Full Stack Developer Roadmap 2025 
+### by Kushal Vijay
+
+## (FrontEnd + BackEnd + DataBases + DevOps + Advanced topics)
 
 >  **Connect with a Community of over 500,000 Coders**
 > <br>
